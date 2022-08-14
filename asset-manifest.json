@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/aminebensalah1/leBest.git/static/css/main.a4fcf3b4.css",
+    "main.js": "/aminebensalah1/leBest.git/static/js/main.43d746df.js",
+    "static/js/787.28cb0dcd.chunk.js": "/aminebensalah1/leBest.git/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/aminebensalah1/leBest.git/index.html",
+    "main.a4fcf3b4.css.map": "/aminebensalah1/leBest.git/static/css/main.a4fcf3b4.css.map",
+    "main.43d746df.js.map": "/aminebensalah1/leBest.git/static/js/main.43d746df.js.map",
+    "787.28cb0dcd.chunk.js.map": "/aminebensalah1/leBest.git/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4fcf3b4.css",
+    "static/js/main.43d746df.js"
+  ]
+}
